@@ -1,0 +1,10 @@
+{
+  "name": "com.lux.utilstools",
+  "version": "1.0.0",
+  "displayName": "Lux Utils Tools",
+  "description": "Utility package used for general purpouses.",
+  "author": {
+    "name": "Luxgile",
+    "email": "bisslit.12.2@gmail.com"
+  }
+}
